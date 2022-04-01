@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.152.154.128:8081/repository/fintechrelease/</url>
+	      <url>http://54.159.223.151:8081/repository/fintechrelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.152.154.128:8081/repository/Fintech/</url>
+	      <url>http://54.159.223.151:8081/repository/Fintech/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
